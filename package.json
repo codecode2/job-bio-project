@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://codecode2.github.io/job-bio-project",
+  "homepage": "https://codecode2.github.io/job-bio-project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
