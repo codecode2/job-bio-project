@@ -337,14 +337,7 @@
     overflow: hidden;
 }
 
-.education-card::before {
-    content: '🎓';
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    font-size: 1.5rem;
-    opacity: 0.5;
-}
+
 
 .education-card:hover {
     transform: translateY(-2px);
