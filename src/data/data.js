@@ -120,7 +120,7 @@ export const contactData = {
   title: "Contact",
   details: {
     email: "alcibiadesmirovalis@gmail.com",
-    phone: "+306988198265",
+    phone: "+353 85 736 0591",
     linkedin: "www.linkedin.com/in/ades-miro"
   }
 };
